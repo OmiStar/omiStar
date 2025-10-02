@@ -1,9 +1,9 @@
-# Hi, I'm OmiStar 👋
+# Hi, I'm Omkar Gandhi 👋
 
 ✨ Welcome to my GitHub profile! ✨
 
 ## About Me
-I am an **Aspiring Data Engineer & Analyst** with hands-on experience in cloud data solutions and analytics.  
+I am an **Aspiring Business Analyst/Data Engineer & A Data Analyst** with hands-on experience in cloud data solutions and analytics.  
 Passionate about **building scalable data pipelines, automating workflows, and turning raw data into actionable insights**.  
 Currently **open to work** and excited to collaborate on challenging projects! 🚀
 
